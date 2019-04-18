@@ -1,0 +1,5 @@
+###> 43/symfony-bot ###
+/node_modules
+/.env
+/package-lock.json
+###< 43/symfony-bot ###
